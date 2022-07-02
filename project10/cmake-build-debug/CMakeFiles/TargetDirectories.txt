@@ -1,0 +1,3 @@
+C:/Users/scott/Desktop/project10/cmake-build-debug/CMakeFiles/project10.dir
+C:/Users/scott/Desktop/project10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/scott/Desktop/project10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
